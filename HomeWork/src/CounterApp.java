@@ -1,3 +1,7 @@
+/* Сделал Vladislav Torgashev
+06.03.2022
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
