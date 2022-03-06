@@ -1,5 +1,5 @@
 /* Сделал Vladislav Torgashev
-06.03.2022
+06.03.2022+
  */
 
 import javax.swing.*;
